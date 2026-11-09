@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652043695965",
+    "project_id": "deliverygo-df5d2",
+    "storage_bucket": "deliverygo-df5d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652043695965:android:4b7e888b958769fa29dab4",
+        "android_client_info": {
+          "package_name": "com.example.deliverygo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHq8IzGYyBhFi0qCkrnqnNsbGKY20ymxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

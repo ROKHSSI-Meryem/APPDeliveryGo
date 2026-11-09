@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeliveryGo</string>
+    <string name="nav_open">فتح القائمة</string>
+    <string name="nav_close">إغلاق القائمة</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_profile">الملف الشخصي</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="menu_logout">تسجيل الخروج</string>
+
+    <string name="home_title">الرئيسية</string>
+    <string name="home_welcome">مرحباً بك في DeliveryGo</string>
+
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="profile_email">البريد الإلكتروني</string>
+    <string name="profile_not_logged">غير متصل</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_test_notification">تجربة الإشعار</string>
+    <string name="notification_title">DeliveryGo</string>
+    <string name="notification_message">وصل طلب جديد!</string>
+
+    <!-- Login -->
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="hint_email">البريد الإلكتروني</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="toggle_password_description">إظهار/إخفاء كلمة المرور</string>
+    <string name="btn_login">دخول</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="create_account">إنشاء حساب</string>
+
+    <!-- Main (livraison) -->
+    <string name="distance_initial">المسافة: 0 كم</string>
+    <string name="duration_initial">المدة: 0 د</string>
+    <string name="status_waiting">في الانتظار…</string>
+    <string name="finish_delivery">إنهاء التوصيل</string>
+
+    <!-- Register -->
+    <string name="register_title">إنشاء حساب</string>
+    <string name="hint_first_name">الاسم الشخصي</string>
+    <string name="hint_last_name">الاسم العائلي</string>
+    <string name="hint_city">المدينة</string>
+    <string name="hint_confirm_password">تأكيد كلمة المرور</string>
+    <string name="toggle_confirm_description">إظهار/إخفاء التأكيد</string>
+
+    <string name="btn_register">تسجيل</string>
+    <string name="back_to_login">العودة لتسجيل الدخول</string>
+
+    <!-- Messages Login -->
+    <string name="error_invalid_email">البريد الإلكتروني غير صالح</string>
+    <string name="error_empty_password">المرجو إدخال كلمة المرور</string>
+    <string name="login_success">تم تسجيل الدخول بنجاح</string>
+    <string name="error_wrong_credentials">البريد الإلكتروني أو كلمة المرور غير صحيحة</string>
+    <string name="error_network">خطأ في الشبكة، تحقق من الاتصال</string>
+    <string name="error_login_failed">فشل تسجيل الدخول</string>
+    <string name="error_enter_email">المرجو إدخال بريدك الإلكتروني</string>
+    <string name="reset_email_sent">تم إرسال رسالة إعادة التعيين</string>
+    <string name="error_reset_failed">فشل إرسال رسالة إعادة التعيين</string>
+
+    <!-- Messages Register -->
+    <string name="error_first_name">المرجو إدخال الاسم الشخصي</string>
+    <string name="error_last_name">المرجو إدخال الاسم العائلي</string>
+    <string name="error_city">المرجو إدخال المدينة</string>
+    <string name="error_password_short">كلمة المرور قصيرة (6 أحرف على الأقل)</string>
+    <string name="error_password_mismatch">كلمتا المرور غير متطابقتين</string>
+    <string name="register_success">تم إنشاء الحساب بنجاح</string>
+    <string name="error_weak_password">كلمة المرور ضعيفة</string>
+    <string name="error_email_in_use">هذا البريد مستعمل من قبل</string>
+    <string name="error_register_failed">فشل التسجيل</string>
+
+    <string name="profile_first_name">الاسم الشخصي</string>
+    <string name="profile_last_name">الاسم العائلي</string>
+    <string name="profile_city">المدينة</string>
+
+    <!-- Home / Profile -->
+    <string name="location_rationale">إذن الموقع ضروري لتتبع التوصيل.</string>
+    <string name="status_no_permission">تم رفض إذن الموقع</string>
+    <string name="status_ready">جاهز</string>
+    <string name="status_delivering">التوصيل جارٍ…</string>
+    <string name="status_finished">انتهى التوصيل</string>
+    <string name="driver_marker">🛵 موقعي</string>
+    <string name="start_delivery">بدء التوصيل</string>
+    <string name="distance_format">المسافة: %1$.2f كم</string>
+    <string name="duration_format">المدة: %1$d د %2$02d ث</string>
+    <string name="summary_title">ملخص التوصيل</string>
+    <string name="summary_message">المسافة: %1$.2f كم\nالمدة: %2$d د %3$02d ث</string>
+    <string name="delivery_finished_notification">انتهى التوصيل: %1$.2f كم</string>
+    <string name="profile_toolbar_title">ملفي الشخصي</string>
+    <string name="profile_info_title">المعلومات الشخصية</string>
+    <string name="profile_qr_title">رمز QR الخاص بي</string>
+    <string name="profile_qr_hint">يحتوي رمز QR هذا على معلومات ملفك الشخصي.</string>
+
+    <!-- Orders -->
+    <string name="order_notification_title">طلب جديد</string>
+    <string name="order_notification_text">%1$s – الاستلام من %2$s</string>
+    <string name="order_accept">قبول</string>
+    <string name="order_refuse">رفض</string>
+    <string name="order_card_format">🏪 الاستلام من: %1$s\n🏠 الزبون: %2$s – %3$s</string>
+    <string name="order_pickup_marker">🏪 الاستلام: %1$s</string>
+    <string name="order_client_marker">🏠 الزبون: %1$s</string>
+</resources>
